@@ -48,6 +48,54 @@ Ensure you have the following installed:
       cd backend
       python main.py
       ```
+Here's a section for the **README** file that explains how to run unit tests using **pytest**:
+
+---
+
+## Unit Testing
+
+### Running Unit Tests
+
+To ensure that the application works correctly, unit tests have been provided for key components of the project. To run the tests, follow these steps:
+
+1. **Clone the Repository**:
+   If you haven't already, clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/your-username/Yoga_Pose_Corrector-main.git
+   cd Yoga_Pose_Corrector-main
+   ```
+
+2. **Install Dependencies**:
+   Before running the tests, make sure all dependencies are installed. You can do this using `pip`:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Run the Tests**:
+   To run the unit tests, simply navigate to the root directory of the cloned repository and execute the following command:
+   ```bash
+   pytest
+   ```
+   This will automatically discover and run all tests in the `tests/` directory.
+
+4. **Test Output**:
+   Pytest will output the results of the tests in your terminal, showing which tests passed, failed, or were skipped.
+
+   - If you want more detailed output, you can use the `-v` flag:
+     ```bash
+     pytest -v
+     ```
+   
+   - To disable output capturing (useful for interactive input scenarios), you can run:
+     ```bash
+     pytest -s
+     ```
+
+5. **Additional Information**:
+   - Tests are located in the `tests/` directory.
+   - Each module has corresponding test files prefixed with `test_` (e.g., `test_main.py`, `test_PoseModule.py`, etc.).
+
+---
 
 ## Yoga Poses Supported
 
