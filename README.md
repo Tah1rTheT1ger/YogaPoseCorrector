@@ -62,7 +62,7 @@ To ensure that the application works correctly, unit tests have been provided fo
    If you haven't already, clone the repository to your local machine:
    ```bash
    git clone https://github.com/your-username/Yoga_Pose_Corrector-main.git
-   cd Yoga_Pose_Corrector-main
+   cd Yoga_Pose_Corrector-main/unit_testing
    ```
 
 2. **Install Dependencies**:
