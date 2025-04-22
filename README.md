@@ -4,9 +4,11 @@
 
 Watch the demo of Flexcellent in action below:
 
-[![Flexcellent Demo](https://img.youtube.com/vi/Fx4bIN0dZ-4/0.jpg)](https://www.youtube.com/watch?v=Fx4bIN0dZ-4)
+<a href="https://www.youtube.com/watch?v=Fx4bIN0dZ-4" target="_blank">
+  <img src="https://img.youtube.com/vi/Fx4bIN0dZ-4/0.jpg" alt="Flexcellent Demo" />
+</a>
 
-> Click the image above or [watch on YouTube](https://www.youtube.com/watch?v=Fx4bIN0dZ-4)
+> Click the image above or <a href="https://www.youtube.com/watch?v=Fx4bIN0dZ-4" target="_blank">watch on YouTube</a>
 
 ---
 
